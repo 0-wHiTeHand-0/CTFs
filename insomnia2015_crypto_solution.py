@@ -5,8 +5,7 @@ from binascii import hexlify
 import socket
 import itertools
 
-#serv='bringthenoise.insomnihack.ch'
-serv='10.76.20.200'
+serv='bringthenoise.insomnihack.ch'
 port=1111
 buffer2=1024
 POWLEN=5
