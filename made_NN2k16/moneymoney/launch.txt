@@ -1,0 +1,1 @@
+docker run -d --name extra_cont --restart=on-failure -p 1337:1337 extra_img
