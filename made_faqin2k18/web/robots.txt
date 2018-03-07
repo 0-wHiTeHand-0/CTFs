@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /lel.php
+Disallow: /lel.php.back

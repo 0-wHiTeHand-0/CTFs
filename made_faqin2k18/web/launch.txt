@@ -1,0 +1,1 @@
+docker run -d --name web_cont --restart=on-failure --log-opt max-size=5m --log-opt max-file=1 -p 0.0.0.0:4646:4646 -v /root/Desktop/ctf/web/flag.txt:/flag.txt  web_img
